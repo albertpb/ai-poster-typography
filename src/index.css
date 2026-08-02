@@ -1,0 +1,13 @@
+:root {
+  font-family: 'Manrope', Arial, sans-serif;
+  color: #151515;
+  background: #e8e8e4;
+  font-synthesis: none;
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+}
+
+html { min-width: 320px; background: #e8e8e4; }
+body { margin: 0; min-width: 320px; min-height: 100vh; }
+button:disabled { cursor: wait; opacity: .55; }
+::selection { background: #d9ff43; color: #111; }
